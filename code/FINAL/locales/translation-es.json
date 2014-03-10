@@ -2,8 +2,8 @@
     "translator": "Cuerdo",
     "app": {
         "name": "Nada que esconder",
-        "subtitle": "un juego para cazar furtivos en el que te vigilas a ti mismo.",
-        "longtitle": "Nada que esconder: un juego para cazar furtivos en el que te vigilas a ti mismo."
+        "subtitle": "un juego en el que debes mantenerte a la vista y te vigilas a ti mismo.",
+        "longtitle": "Nada que esconder: un juego en el que debes mantenerte a la vista y te vigilas a ti mismo."
     },
     "menu": {
         "play": "JUGAR",
@@ -283,8 +283,8 @@
                 "MovingIEyes": "°OJOS MÓVILES",
                 "SpaceKey": "BARRA ESPACIADORA",
                 "Or": "- - - - - - O - - - - - - ",
-                "ClickCircle1": "PULSA SOBRE",
-                "ClickCircle2": "EL CÍRCULO",
+                "ClickCircle1": "PULSAR",
+                "ClickCircle2": "CÍRCULO",
                 "ToPickupDrop": "PARA COGER/SOLTAR",
                 "ThanksForSurveillance1": "GRACIAS",
                 "ThanksForSurveillance2": "POR PARTICIPAR",
